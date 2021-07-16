@@ -1,3 +1,5 @@
+
+
 module.exports = {
   name: "beg",
   async execute(message, args, client, Discord, ProfileData, user, userQuery){
